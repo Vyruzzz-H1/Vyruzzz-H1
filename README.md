@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vyruzzz</h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">I'm passionate about cybersecurity (and a beginner Python developer) from Mexico</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 Currently, I'm working on my **YouTube channel**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I'm currently learning **ISO/IEC 27001 Implementing Information Security**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I'm looking to collaborate on **Python projects**
 
 - 📫 How to reach me: **inghmsa@proton.me**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I enjoy: I really like **reading, video games, and the gym... and, of course, programming.**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
